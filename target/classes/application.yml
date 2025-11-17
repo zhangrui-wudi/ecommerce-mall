@@ -5,11 +5,24 @@ spring:
     username: root
     password: 123456
 
+
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    date-format: yyyy-MM-dd HH:mm:ss
+
   redis:
     host: localhost
     port: 6379
-    # 如果Redis有密码，添加下面这行
-    password: ClSoft@123456
+    password: ClSoft@123456  # 如果Redis设置了密码
+    database: 0
+    lettuce:
+      pool:
+        max-active: 8
+        max-wait: -1ms
+        max-idle: 8
+        min-idle: 0
+    timeout: 3000ms
 
 server:
   port: 8083
@@ -21,7 +34,10 @@ mybatis-plus:
   global-config:
     db-config:
       id-type: auto
+  mapper-locations: classpath*:/mapper/**/*.xml
 
 logging:
   level:
-    com.yourname.mall: debug  # 注意：这里需要缩进2个空格
+    com.yourname.mall: debug
+    com.baomidou.mybatisplus: debug
+

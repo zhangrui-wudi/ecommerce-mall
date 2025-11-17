@@ -1,0 +1,27 @@
+
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ÿ¦šà8¹øº†©3
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ÔÒÖİ8ºøº†©3
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(¤’ÓÁ8ºøº†©3
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ù†àÁ8¼øº†©3
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(²î›¦8¾øº†©3
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(µ®â›ùÿÿÿÿ8¾øº†©3
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(ÈÎ8¾øº†©3
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(Æİ¹í8¿øº†©3
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(üÏı™8Áøº†©3
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(ÕƒÉáúÿÿÿÿ8Áøº†©3
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(œ—‘Ÿ8Áøº†©3
+V	java:S106‰"9Replace this use of System.out or System.err by a logger.(Öí¥ù8Âøº†©3
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(È—ƒüøÿÿÿÿ8Äøº†©3
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(Å¾¯´8Äøº†©3
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(Šî·Ú8Åøº†©3
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(Ş˜Œò8Æøº†©3
+[	java:S106±"9Replace this use of System.out or System.err by a logger.(•ĞØıÿÿÿÿ8Çøº†©3
+V	java:S106³"9Replace this use of System.out or System.err by a logger.(¬…à÷8Çøº†©3
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(Á°ğ€ùÿÿÿÿ8Èøº†©3
+[	java:S106À"9Replace this use of System.out or System.err by a logger.(ºÂ†®ûÿÿÿÿ8Éøº†©3
+€
+java:S1128"^Remove this unused import 'com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper'.(à¡òúÿÿÿÿ8Éøº†©3
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8Éøº†©3
+Y
+java:S1068"7Remove this unused "CATEGORY_KEY_PREFIX" private field.(Ú‡ÿÿÿÿÿ8Êøº†©3
