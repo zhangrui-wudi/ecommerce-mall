@@ -1,0 +1,9 @@
+
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(şßÖ8”ÅŞ‹¨3
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(â£å‡ıÿÿÿÿ8ÌÍİ‹¨3
+U	java:S106"9Replace this use of System.out or System.err by a logger.(êç¥é8ÌÍİ‹¨3
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ûá°¬üÿÿÿÿ8ÌÍİ‹¨3
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×ˆø¡şÿÿÿÿ8ÍÍİ‹¨3
+g
+java:S1128"ERemove this unused import 'org.mybatis.spring.annotation.MapperScan'.(½‡ö–şÿÿÿÿ8½—•Œ¨3
